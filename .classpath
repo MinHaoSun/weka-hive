@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/curator-client-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/curator-framework-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-auth-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/hive-common-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-jdbc-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-metastore-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-serde-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-service-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-shims-0.23-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/hive-shims-common-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.9.3.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sunminmin/Downloads/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
